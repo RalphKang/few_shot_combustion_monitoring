@@ -1,0 +1,17 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# Python:
+
+*.so
+*.egg
+*.egg-info
+dist
+build
+# pycharm
+**/.idea/
+**/_pycache_/
+**/run/
+**/**.txt
+**/**.csv
+
