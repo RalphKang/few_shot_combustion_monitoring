@@ -23,4 +23,4 @@ the dataset has been uploaded to Kaggle, please refer to:
 }
 ```
 
-Which includes the images used for training, validation and test, also the features used for visualization, just put them respectively into the folder of the algorithm to replace the sub-folders with the same name.
+Which includes the images used for training, validation and test, also the features used for visualization, just put them respectively into the folder of the algorithm, more hints can be found from the code hyperparameter cofigurations.
